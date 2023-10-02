@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 <h3 align="start">Passionate and experienced Junior MERN Stack Developer with a focus on creating dynamic and engaging web applications using React.js. I have experience working with a team under pressure with Spring Rain Private Limited. I am dedicated to delivering high-quality, user-centric solutions and also dedicated to continuously improving my skills with latest frontend technologies.</h3>
+<h3>My Another Github Profile Link </h3>
+ <p align="left"> <a href="https://github.com/MasudRana924" target="blank"></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudrana15924&label=Profile%20views&color=0e75b6&style=flat" alt="masudrana15924" /> </p>
 
